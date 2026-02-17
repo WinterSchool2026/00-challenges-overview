@@ -11,7 +11,7 @@ All challenges are designed to be completed using **Google Colab**.
 
 | # | Challenge Title | Repository | Tutors |
 |---|-----------------|------------|--------|
-| 01 | SeasFire | [ch01-seasfire](https://github.com/WinterSchool2026/ch01-seasfire) | Nikolas Papadopoulos |
+| 01 | SeasFire | [ch01-seasfire](https://github.com/WinterSchool2026/ch01-seasfire) | [Nikolas Papadopoulos](https://github.com/nickpadd) |
 
 ---
 
