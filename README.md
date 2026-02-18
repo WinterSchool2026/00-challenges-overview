@@ -7,19 +7,38 @@ All challenges are designed to be completed using **Google Colab**.
 
 | # | Challenge Title | Repository | Tutors |
 |---|-----------------|------------|--------|
-| 01 | SeasFire | [ch01-seasfire](https://github.com/WinterSchool2026/ch01-seasfire) | [Nikolas Papadopoulos](https://github.com/nickpadd) |
+| 01 | SeasFire | [ch01-seasfire](https://github.com/WinterSchool2026/ch01-seasfire) | [Nikolas Papadopoulos]() |
 | 02 | ML-based downscaling of future climate scenarios | [ch02-future-climate-downscaling](https://github.com/WinterSchool2026/ch02-future-climate-downscaling) | [Mikhail Ivanov]() |
 | 03 | Using machine learning to assess ocean deoxygenation trends in space and time | [ch03-ml-ocean-deoxygenation](https://github.com/WinterSchool2026/ch03-ml-ocean-deoxygenation) | [Arianna Olivelli]() |
+| 04 | Hybrid modelling of land-atmosphere fluxes | [ch03-ml-ocean-deoxygenation](https://github.com/WinterSchool2026/ch03-ml-ocean-deoxygenation) | [Arianna Olivelli]() |
+| 04 | Name | [ch04-name](https://github.com/WinterSchool2026/ch04-name) | [Reda ElGhawi]() |
+| 05 | Name | [ch05-name](https://github.com/WinterSchool2026/ch05-name) | [Said Ouala]() |
+| 06 | Name | [ch06-name](https://github.com/WinterSchool2026/ch06-name) | [Alexander Winkler]() |
+| 07 | Name | [ch07-name](https://github.com/WinterSchool2026/ch07-name) | [Fangfei "Fei" Lan]() |
+| 08 | Name | [ch08-name](https://github.com/WinterSchool2026/ch08-name) | [Tutor Name]() |
+| 09 | Name | [ch09-name](https://github.com/WinterSchool2026/ch09-name) | [Tutor Name]() |
+| 10 | Name | [ch10-name](https://github.com/WinterSchool2026/ch10-name) | [Tutor Name]() |
+| 11 | Name | [ch11-name](https://github.com/WinterSchool2026/ch11-name) | [Tutor Name]() |
+| 12 | Name | [ch12-name](https://github.com/WinterSchool2026/ch12-name) | [Tutor Name]() |
+| 13 | Name | [ch13-name](https://github.com/WinterSchool2026/ch13-name) | [Tutor Name]() |
+| 14 | Name | [ch14-name](https://github.com/WinterSchool2026/ch14-name) | [Tutor Name]() |
+| 15 | Name | [ch15-name](https://github.com/WinterSchool2026/ch15-name) | [Tutor Name]() |
+| 16 | Name | [ch16-name](https://github.com/WinterSchool2026/ch16-name) | [Tutor Name]() |
+| 17 | Name | [ch17-name](https://github.com/WinterSchool2026/ch17-name) | [Tutor Name]() |
+| 18 | Name | [ch18-name](https://github.com/WinterSchool2026/ch18-name) | [Tutor Name]() |
+| 19 | Name | [ch19-name](https://github.com/WinterSchool2026/ch19-name) | [Tutor Name]() |
+| 20 | Name | [ch20-name](https://github.com/WinterSchool2026/ch20-name) | [Tutor Name]()
+
 
 ---
 ## Meet the tutors
 
 <table>
 <tr>
-<td width="180" valign="top">
+<td width="180" valign="center">
 <img src="assets/nikolas_papadopoulos.jpg" width="160">
 </td>
-<td valign="top">
+<td valign="center">
 
 ### Nikolas Papadopoulos  
 **Challenge 01 – SeasFire**
@@ -34,10 +53,10 @@ Nikolas Papadopoulos is a PhD candidate on AI for extreme weather events at the 
 
 <table>
 <tr>
-<td width="180" valign="top">
+<td width="180" valign="center">
 <img src="assets/mikhail_ivanov.jpg" width="160">
 </td>
-<td valign="top">
+<td valign="center">
 
 ### Mikhail Ivanov  
 **Challenge 02 – ML-based downscaling of future climate scenarios**
@@ -52,10 +71,10 @@ Mikhail Ivanov is an Expert in Machine Learning for Climate Applications at the 
 
 <table>
 <tr>
-<td width="180" valign="top">
+<td width="180" valign="center">
 <img src="assets/arianna_olivelli.jpg" width="160">
 </td>
-<td valign="top">
+<td valign="center">
 
 ### Arianna Olivelli  
 **Challenge 03 – Using machine learning to assess ocean deoxygenation trends in space and time**
@@ -65,9 +84,6 @@ Arianna Olivelli is a chemical oceanographer and Postdoctoral Researcher in the 
 </td>
 </tr>
 </table>
-
-
-### 
 
 ## Support
 
