@@ -22,7 +22,7 @@ All challenges are designed to be completed using **Google Colab**.
 | 13 | Name | [ch13-name](https://github.com/WinterSchool2026/ch13-name) | [Shijie Jiang]() |
 | 14 | Name | [ch14-name](https://github.com/WinterSchool2026/ch14-name) | [Vitus Benson]() |
 | 15 | Name | [ch15-name](https://github.com/WinterSchool2026/ch15-name) | [Nikolaos-Ioannis Bountos]() |
-| 16 | Name | [ch16-name](https://github.com/WinterSchool2026/ch16-name) | [Angelos Zavros]() |
+| 16 | Name | [ch16-name](https://github.com/WinterSchool2026/ch16-name) | [Angelos Zavras]() |
 | 17 | Name | [ch17-name](https://github.com/WinterSchool2026/ch17-name) | [Valsamis (Makis) Ntouskos]() |
 | 18 | Name | [ch18-name](https://github.com/WinterSchool2026/ch18-name) | [Vasileios Tsironis]() |
 | 19 | Name | [ch19-name](https://github.com/WinterSchool2026/ch19-name) | [Nathan Mankovich]() |
@@ -141,7 +141,7 @@ Bio coming soon.
 <table>
 <tr>
 <td width="180" valign="center">
-<img src="assets/fangfei_lan.jpg" width="160">
+<img src="assets/fei_lan.jpg" width="160">
 </td>
 <td valign="center">
 
@@ -285,7 +285,7 @@ Bio coming soon.
 <table>
 <tr>
 <td width="180" valign="center">
-<img src="assets/nikolaos_ioannis_bountos.jpg" width="160">
+<img src="assets/nikos_bountos.jpg" width="160">
 </td>
 <td valign="center">
 
@@ -303,11 +303,11 @@ Bio coming soon.
 <table>
 <tr>
 <td width="180" valign="center">
-<img src="assets/angelos_zavros.jpg" width="160">
+<img src="assets/angelos_zavras.jpg" width="160">
 </td>
 <td valign="center">
 
-### Angelos Zavros  
+### Angelos Zavras  
 **Challenge 16**
 
 Bio coming soon.
@@ -321,7 +321,7 @@ Bio coming soon.
 <table>
 <tr>
 <td width="180" valign="center">
-<img src="assets/valsamis_ntouskos.jpg" width="160">
+<img src="assets/makis_ntouskos.jpg" width="160">
 </td>
 <td valign="center">
 
