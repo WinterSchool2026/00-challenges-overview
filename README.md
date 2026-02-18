@@ -84,6 +84,310 @@ Arianna Olivelli is a chemical oceanographer and Postdoctoral Researcher in the 
 </tr>
 </table>
 
+<table>
+<tr>
+<td width="180" valign="center">
+<img src="assets/reda_elghawi.jpg" width="160">
+</td>
+<td valign="center">
+
+### Reda ElGhawi  
+**Challenge 04 – Hybrid modelling of land-atmosphere fluxes**
+
+Bio coming soon.
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="180" valign="center">
+<img src="assets/said_ouala.jpg" width="160">
+</td>
+<td valign="center">
+
+### Said Ouala  
+**Challenge 05**
+
+Bio coming soon.
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="180" valign="center">
+<img src="assets/alexander_winkler.jpg" width="160">
+</td>
+<td valign="center">
+
+### Alexander Winkler  
+**Challenge 06**
+
+Bio coming soon.
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="180" valign="center">
+<img src="assets/fangfei_lan.jpg" width="160">
+</td>
+<td valign="center">
+
+### Fangfei "Fei" Lan  
+**Challenge 07**
+
+Bio coming soon.
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="180" valign="center">
+<img src="assets/sujan_koirala.jpg" width="160">
+</td>
+<td valign="center">
+
+### Sujan Koirala  
+**Challenge 08**
+
+Bio coming soon.
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="180" valign="center">
+<img src="assets/marta_sapena.jpg" width="160">
+</td>
+<td valign="center">
+
+### Marta Sapena  
+**Challenge 09**
+
+Bio coming soon.
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="180" valign="center">
+<img src="assets/emiliano_diaz.jpg" width="160">
+</td>
+<td valign="center">
+
+### Emiliano Díaz Salas-Porras  
+**Challenge 10**
+
+Bio coming soon.
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="180" valign="center">
+<img src="assets/homer_durand.jpg" width="160">
+</td>
+<td valign="center">
+
+### Homer Durand  
+**Challenge 11**
+
+Bio coming soon.
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="180" valign="center">
+<img src="assets/mohanad_albughdadi.jpg" width="160">
+</td>
+<td valign="center">
+
+### Mohanad Albughdadi  
+**Challenge 12**
+
+Bio coming soon.
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="180" valign="center">
+<img src="assets/shijie_jiang.jpg" width="160">
+</td>
+<td valign="center">
+
+### Shijie Jiang  
+**Challenge 13**
+
+Bio coming soon.
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="180" valign="center">
+<img src="assets/vitus_benson.jpg" width="160">
+</td>
+<td valign="center">
+
+### Vitus Benson  
+**Challenge 14**
+
+Bio coming soon.
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="180" valign="center">
+<img src="assets/nikolaos_ioannis_bountos.jpg" width="160">
+</td>
+<td valign="center">
+
+### Nikolaos-Ioannis Bountos  
+**Challenge 15**
+
+Bio coming soon.
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="180" valign="center">
+<img src="assets/angelos_zavros.jpg" width="160">
+</td>
+<td valign="center">
+
+### Angelos Zavros  
+**Challenge 16**
+
+Bio coming soon.
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="180" valign="center">
+<img src="assets/valsamis_ntouskos.jpg" width="160">
+</td>
+<td valign="center">
+
+### Valsamis (Makis) Ntouskos  
+**Challenge 17**
+
+Bio coming soon.
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="180" valign="center">
+<img src="assets/vasileios_tsironis.jpg" width="160">
+</td>
+<td valign="center">
+
+### Vasileios Tsironis  
+**Challenge 18**
+
+Bio coming soon.
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="180" valign="center">
+<img src="assets/nathan_mankovich.jpg" width="160">
+</td>
+<td valign="center">
+
+### Nathan Mankovich  
+**Challenge 19**
+
+Bio coming soon.
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="180" valign="center">
+<img src="assets/aishwarya_venkataramanan.jpg" width="160">
+</td>
+<td valign="center">
+
+### Aishwarya Venkataramanan  
+**Challenge 20**
+
+Bio coming soon.
+
+</td>
+</tr>
+</table>
+
 ## Support
 
 Questions regarding a specific challenge should be directed to the tutors listed in the respective repository.
