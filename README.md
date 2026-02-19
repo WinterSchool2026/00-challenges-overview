@@ -182,9 +182,9 @@ Bio coming soon.
 <td valign="center">
 
 ### Marta Sapena  
-**Challenge 09**
+**Challenge 09 - Causal inference for extreme events**
 
-Bio coming soon.
+Marta Sapena holds a PhD in Geomatics Engineering. Specializing in remote sensing for urban applications, she integrates spatial analysis with advanced statistical methods. Her interests range from assessing disaster risk exposure, developing susceptibility maps, and optimizing population disaggregation techniques, to monitoring urban dynamics. Currently, her research focuses on predicting the impacts of extreme weather events such as droughts and heatwaves.
 
 </td>
 </tr>
