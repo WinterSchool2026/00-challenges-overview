@@ -15,7 +15,7 @@ All challenges are designed to be completed using **Google Colab**.
 | 06 | Can vegetation buffer meteorological extremes events? | [ch06-vegetation-buffering-extremes](https://github.com/WinterSchool2026/ch06-vegetation-buffering-extremes) | [Alexander Winkler]() |
 | 07 | Name | [ch07-name](https://github.com/WinterSchool2026/ch07-name) | [Fangfei "Fei" Lan]() |
 | 08 | Name | [ch08-name](https://github.com/WinterSchool2026/ch08-name) | [Sujan Koirala]() |
-| 09 | Name | [ch09-name](https://github.com/WinterSchool2026/ch09-name) | [Marta Sapena]() |
+| 09 | Causal inference for extreme events | [ch09-name](https://github.com/WinterSchool2026/ch09-name) | [Marta Sapena]() |
 | 10 | Name | [ch10-name](https://github.com/WinterSchool2026/ch10-name) | [Emiliano Díaz Salas-Porras]() |
 | 11 | Name | [ch11-name](https://github.com/WinterSchool2026/ch11-name) | [Homer Durand]() |
 | 12 | Name | [ch12-name](https://github.com/WinterSchool2026/ch12-name) | [Mohanad Albughdadi]() |
