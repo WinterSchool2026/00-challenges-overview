@@ -7,26 +7,26 @@ All challenges are designed to be completed using **Google Colab**.
 
 | # | Challenge Title | Repository | Tutors |
 |---|-----------------|------------|--------|
-| 01 | SeasFire: Seasonal Wildfire danger Forecasting | [ch01-seasfire](https://github.com/WinterSchool2026/ch01-seasfire) | [Nikolas Papadopoulos](#nikolas-papadopoulos) |
+| 01 | SeasFire: Deep Learning for Seasonal Wildfire danger Forecasting | [ch01-seasfire](https://github.com/WinterSchool2026/ch01-seasfire) | [Nikolas Papadopoulos](#nikolas-papadopoulos) |
 | 02 | ML-based downscaling of future climate scenarios | [ch02-future-climate-downscaling](https://github.com/WinterSchool2026/ch02-future-climate-downscaling) | [Mikhail Ivanov](#mikhail-ivanov) |
 | 03 | Using machine learning to assess ocean deoxygenation trends in space and time | [ch03-ml-ocean-deoxygenation](https://github.com/WinterSchool2026/ch03-ml-ocean-deoxygenation) | [Arianna Olivelli](#arianna-olivelli) |
-| 04 | Hybrid modelling of land-atmosphere fluxes | [ch03-ml-ocean-deoxygenation](https://github.com/WinterSchool2026/ch03-ml-ocean-deoxygenation) | [Reda ElGhawi](#reda-elghawi) |
+| 04 | Hybrid modelling of land-atmosphere fluxes | [ch04-hybrid-land-atmosphere-fluxes](https://github.com/WinterSchool2026/ch04-hybrid-land-atmosphere-fluxes) | [Reda ElGhawi](#reda-elghawi) |
 | 05 | Enhancing Earth System Modelling with Artificial Intelligence: Emulators vs Hybrid Models | [ch05-ai-esm-emulation-hybrid](https://github.com/WinterSchool2026/ch05-ai-esm-emulation-hybrid) | [Said Ouala](#said-ouala) |
 | 06 | Can vegetation buffer meteorological extremes events? | [ch06-vegetation-buffering-extremes](https://github.com/WinterSchool2026/ch06-vegetation-buffering-extremes) | [Alexander Winkler](#alexander-winkler) |
-| 07 | Name | [ch07-name](https://github.com/WinterSchool2026/ch07-name) | [Fangfei "Fei" Lan](#fangfei-fei-lan) |
-| 08 | Name | [ch08-name](https://github.com/WinterSchool2026/ch08-name) | [Sujan Koirala](#sujan-koirala) |
-| 09 | Name | [ch09-name](https://github.com/WinterSchool2026/ch09-name) | [Marta Sapena](#marta-sapena) |
-| 10 | Name | [ch10-name](https://github.com/WinterSchool2026/ch10-name) | [Emiliano Díaz Salas-Porras](#emiliano-díaz-salas-porras) |
-| 11 | Name | [ch11-name](https://github.com/WinterSchool2026/ch11-name) | [Homer Durand](#homer-durand) |
-| 12 | Name | [ch12-name](https://github.com/WinterSchool2026/ch12-name) | [Mohanad Albughdadi](#mohanad-albughdadi) |
-| 13 | Name | [ch13-name](https://github.com/WinterSchool2026/ch13-name) | [Shijie Jiang](#shijie-jiang) |
-| 14 | Name | [ch14-name](https://github.com/WinterSchool2026/ch14-name) | [Vitus Benson](#vitus-benson) |
-| 15 | Name | [ch15-name](https://github.com/WinterSchool2026/ch15-name) | [Nikolaos-Ioannis Bountos](#nikolaos-ioannis-bountos) |
-| 16 | Name | [ch16-name](https://github.com/WinterSchool2026/ch16-name) | [Angelos Zavras](#angelos-zavras) |
-| 17 | Name | [ch17-name](https://github.com/WinterSchool2026/ch17-name) | [Valsamis (Makis) Ntouskos](#valsamis-makis-ntouskos) |
-| 18 | Name | [ch18-name](https://github.com/WinterSchool2026/ch18-name) | [Vasileios Tsironis](#vasileios-tsironis) |
-| 19 | Name | [ch19-name](https://github.com/WinterSchool2026/ch19-name) | [Nathan Mankovich](#nathan-mankovich) |
-| 20 | Name | [ch20-name](https://github.com/WinterSchool2026/ch20-name) | [Aishwarya Venkataramanan](#aishwarya-venkataramanan) |
+| 07 | Seeing the spread: Visualizing spatiotemporal uncertainty in ensemble data | [ch07-spatiotemporal-uncertainty-ensembles](https://github.com/WinterSchool2026/ch07-spatiotemporal-uncertainty-ensembles) | [Fangfei "Fei" Lan](#fangfei-fei-lan) |
+| 08 | Hybrid modelling for parameters of vegetation productivity in land models | [ch08-hybrid-vegetation-productivity](https://github.com/WinterSchool2026/ch08-hybrid-vegetation-productivity) | [Sujan Koirala](#sujan-koirala) |
+| 09 | Causal Inference for Extreme Events | [ch09-causal-inference-extremes](https://github.com/WinterSchool2026/ch09-causal-inference-extremes) | [Marta Sapena](#marta-sapena) |
+| 10 | Generating 3D video of hurricanes | [ch10-3d-hurricane-generation](https://github.com/WinterSchool2026/ch10-3d-hurricane-generation) | [Emiliano Díaz Salas-Porras](#emiliano-díaz-salas-porras) |
+| 11 | Machine Learning for the Attribution of Extreme Events | [ch11-ml-attribution-extremes](https://github.com/WinterSchool2026/ch11-ml-attribution-extremes) | [Homer Durand](#homer-durand) |
+| 12 | Lightweight Vision-Language Mixture-of-Experts for Interpretable Multispectral Satellite Representation Learning | [ch12-vlm-moe-multispectral](https://github.com/WinterSchool2026/ch12-vlm-moe-multispectral) | [Mohanad Albughdadi](#mohanad-albughdadi) |
+| 13 | Identifiability in hybrid AI models for understanding flood extremes | [ch13-hybrid-ai-flood-extremes](https://github.com/WinterSchool2026/ch13-hybrid-ai-flood-extremes) | [Shijie Jiang](#shijie-jiang) |
+| 14 | Multi-modal learning for Impact-based forecasting of Droughts in Eastern Africa | [ch14-multimodal-drought-forecasting](https://github.com/WinterSchool2026/ch14-multimodal-drought-forecasting) | [Vitus Benson](#vitus-benson) |
+| 15 | Generative models for Interferometric Synthetic Aperture Radar | [ch15-generative-insar](https://github.com/WinterSchool2026/ch15-generative-insar) | [Nikolaos-Ioannis Bountos](#nikolaos-ioannis-bountos) |
+| 16 | Vision-Language Models for EO: Connect imagery and text to enhance EO data interpretation | [ch16-vlm-earth-observation](https://github.com/WinterSchool2026/ch16-vlm-earth-observation) | [Angelos Zavras](#angelos-zavras) |
+| 17 | Change retrieval in EO data using Vision Language Models (VLMs) | [ch17-vlm-change-retrieval](https://github.com/WinterSchool2026/ch17-vlm-change-retrieval) | [Valsamis (Makis) Ntouskos](#valsamis-makis-ntouskos) |
+| 18 | The Multi-Modal ARD Factory: Mastering the Data-Centric Pipeline for EO Foundation Models | [ch18-multimodal-ard-factory](https://github.com/WinterSchool2026/ch18-multimodal-ard-factory) | [Vasileios Tsironis](#vasileios-tsironis) |
+| 19 | Mini Climate Emulation | [ch19-mini-climate-emulation](https://github.com/WinterSchool2026/ch19-mini-climate-emulation) | [Nathan Mankovich](#nathan-mankovich) |
+| 20 | Deep Probabilistic Forecasting of Global Temperature Fields | [ch20-deep-probabilistic-temperature](https://github.com/WinterSchool2026/ch20-deep-probabilistic-temperature) | [Aishwarya Venkataramanan](#aishwarya-venkataramanan) |
 
 ---
 ## Meet the tutors
