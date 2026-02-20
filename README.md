@@ -28,7 +28,6 @@ All challenges are designed to be completed using **Google Colab**.
 | 19 | Mini Climate Emulation | [ch19-mini-climate-emulation](https://github.com/WinterSchool2026/ch19-mini-climate-emulation) | [Nathan Mankovich](#nathan-mankovich) |
 | 20 | Deep Probabilistic Forecasting of Global Temperature Fields | [ch20-deep-probabilistic-temperature](https://github.com/WinterSchool2026/ch20-deep-probabilistic-temperature) | [Aishwarya Venkataramanan](#aishwarya-venkataramanan) |
 
----
 ## Meet the tutors
 
 <table>
