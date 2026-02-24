@@ -60,6 +60,8 @@ Georgios Athanasiou is a postdoctoral researcher at the Remote Sensing Lab of NT
 </td>
 <td valign="center">
 
+---
+
 ### Nikolas Papadopoulos  
 **Challenge 01 – SeasFire: Deep Learning for Seasonal Wildfire danger Forecasting**
 
