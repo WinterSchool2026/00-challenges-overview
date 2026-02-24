@@ -28,7 +28,30 @@ All challenges are designed to be completed using **Google Colab**.
 | 19 | Mini Climate Emulation | [ch19-mini-climate-emulation](https://github.com/WinterSchool2026/ch19-mini-climate-emulation) | [Nathan Mankovich](#nathan-mankovich) |
 | 20 | Deep Probabilistic Forecasting of Global Temperature Fields | [ch20-deep-probabilistic-temperature](https://github.com/WinterSchool2026/ch20-deep-probabilistic-temperature) | [Aishwarya Venkataramanan](#aishwarya-venkataramanan) |
 
+## Participant/Tutor Support
+Questions regarding a specific challenge should be directed to the tutors listed in the respective repository.
+
+For general organizational questions, please contact:
+- georgios.athanasiou.ntua@gmail.com
+
 ## Meet the tutors
+
+<table>
+<tr>
+<td width="180" valign="center">
+<img src="assets/georgios_athanasiou.jpg" width="160">
+</td>
+<td valign="center">
+
+### Georgios Athanasiou 
+**Scientific Coordinator**
+
+TBD
+
+
+</td>
+</tr>
+</table>
 
 <table>
 <tr>
@@ -431,11 +454,3 @@ Bio coming soon.
 </td>
 </tr>
 </table>
-
-## Support
-
-Questions regarding a specific challenge should be directed to the tutors listed in the respective repository.
-
-For general organizational questions, please contact:
-- npapadopoulos@mail.ntua.gr
-- georgios.athanasiou.ntua@gmail.com
