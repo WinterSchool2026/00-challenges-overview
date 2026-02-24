@@ -46,7 +46,7 @@ For general organizational questions, please contact:
 ### Georgios Athanasiou 
 **Scientific Coordinator**
 
-TBD
+Georgios Athanasiou is a postdoctoral researcher at the Remote Sensing Lab of NTUA, working at the intersection of AI, Earth Observation, and causal machine learning. He holds a PhD in Artificial Intelligence for Assisted Reproduction and has extensive experience in deep learning for medical imaging. His past experience includes applied artificial intelligence research across healthcare, biotechnology, and environmental domains, with a focus on developing robust machine learning systems for real-world impact.
 
 
 </td>
