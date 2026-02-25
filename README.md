@@ -444,6 +444,7 @@ Vasileios Tsironis obtained his five-year Diploma (Intergrated Master) of Rur
 <table>
 <tr>
 <td width="180" valign="center">
+<img src="assets/nathan_mankovich.jpg" width="160">
 </td>
 <td valign="center">
 
