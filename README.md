@@ -37,181 +37,240 @@ For general organizational questions, please contact:
 
 <a id="challenge-01"></a>
 
-Tutor(s): [Nikolas Papadopoulos](#nikolas-papadopoulos)
+Tutor(s): [Nikolas Papadopoulos](#nikolas-papadopoulos) </br>
 Repository: [ch01-seasfire](https://github.com/WinterSchool2026/ch01-seasfire)
 
-Overview:
-Description coming soon.
+**Overview:**
+Wildfires are a growing global threat, impacting ecosystems, economies, and human livelihoods. While short-term wildfire predictions often leverage local weather conditions, forecasting fire activity weeks to months in advance remains a challenge due to the complex interplay of climate, vegetation dynamics, land surface processes, and human activities.
+
+This challenge focuses on subseasonal to seasonal wildfire forecasting using the SeasFire datacube — a comprehensive spatiotemporal dataset designed for long-lead wildfire modeling.
+
+Participants are invited to explore the dataset and develop data-driven models to improve our understanding and prediction of wildfire dynamics at extended lead times.
 
 ### CH-02 – ML-based downscaling of future climate scenarios
 
 <a id="challenge-02"></a>
 
-Tutor(s): [Mikhail Ivanov](#mikhail-ivanov)
+Tutor(s): [Mikhail Ivanov](#mikhail-ivanov) </br>
 Repository: [ch02-future-climate-downscaling](https://github.com/WinterSchool2026/ch02-future-climate-downscaling)
 
-Overview:
-Description coming soon.
+**Overview:**
+Global circulation and Earth system models may capture the impact of greenhouse emissions on the world climate and the occurrence of tipping points. However, their spatial resolution is often too coarse to capture the local effects, particularly the extent of extreme events such as heatwaves, droughts, and extreme precipitation. The dynamical downscaling, where the region of interest is simulated at a higher resolution and the boundaries are forced by a global model, is one of the options to assess the effects of climate change at a regional scale. Yet, the high computational cost of the regional models limits the number of selected regions and ensemble members. In this challenge, we are going to explore the ML-based alternatives to dynamical downscaling, where a ML-model learns the high-resolution mapping from reanalysis or climate model data, and then used to downscale a future scenario for high-resolution insights into the new climate and extreme events.
 
 ### CH-03 – Using machine learning to assess ocean deoxygenation trends in space and time
 
 <a id="challenge-03"></a>
-
-Tutor(s): [Arianna Olivelli](#arianna-olivelli)
+ 
+Tutor(s): [Arianna Olivelli](#arianna-olivelli) </br>
 Repository: [ch03-ml-ocean-deoxygenation](https://github.com/WinterSchool2026/ch03-ml-ocean-deoxygenation)
 
-Overview:
-Description coming soon.
+**Overview:**
+In this challenge, participants will be tasked with adapting currently available
+machine learning models to assess global and regional trends of ocean deoxygenation, as
+well as identify their potential drivers and effects on the ecosystem. In situ measurements of
+O2 will be provided from the BGC-Argo and GLODAPv2 datasets, together with the
+backbone of the code to use as starting point. Key questions to explore include:
+
+- How would increasing or decreasing the number of observations as well as changing
+sampling locations affect the mapped output and, therefore, the estimated deoxygenation
+trends?
+- How does increasing the spatiotemporal resolution of the gridded product affect
+estimates of deoxygenation trends on a regional scale?
+
+Through this project, we aim to gain a deeper understanding on how (i) sample distribution
+biases model output, and how this information can be used in uncertainty quantification and
+(ii) different gridded-product resolutions affect mapped O2 variability and deoxygenation
+trends. This challenge can possibly be extended beyond the duration of the summer school.
 
 ### CH-04 – Hybrid modelling of land-atmosphere fluxes
 
 <a id="challenge-04"></a>
 
-Tutor(s): [Reda ElGhawi](#reda-elghawi) & [Sujan Koirala](#sujan-koirala)
+Tutor(s): [Reda ElGhawi](#reda-elghawi) & [Sujan Koirala](#sujan-koirala) </br>
 Repository: [ch04-hybrid-land-atmosphere-fluxes](https://github.com/WinterSchool2026/ch04-hybrid-land-atmosphere-fluxes)
 
-Overview:
-Description coming soon.
+**Overview:**
+This challenge introduces participants to hybrid modelling approaches for improving land–
+atmosphere fluxes in ICON-ESM. Students will explore stomatal conductance, transpiration,
+and GPP at selected FLUXNET sites using a combination of ICON-JSBACH4 (Fortran)
+simulations and feed-forward neural network (FNN) hybrid model implemented in Python.
+Across three sessions, participants will (1) run and analyse baseline ICON simulations for localized FLUXNET sites, (2) train and evaluate a hybrid model, and (3) implement the pretrained hybrid model in ICON. The challenge is open-ended: groups evaluate whether the
+hybrid approach improves model performance, under which conditions it succeeds or fails,
+and how such ML–physics combinations could influence land-surface modelling especially
+under changing environmental conditions.
 
 ### CH-05 – Enhancing Earth System Modelling with Artificial Intelligence: Emulators vs Hybrid Models
 
 <a id="challenge-05"></a>
 
-Tutor(s): [Said Ouala](#said-ouala)
+Tutor(s): [Said Ouala](#said-ouala) </br>
 Repository: [ch05-ai-esm-emulation-hybrid](https://github.com/WinterSchool2026/ch05-ai-esm-emulation-hybrid)
 
-Overview:
-Description coming soon.
+**Overview:**
+In this challenge, students are provided with a reference simulation from an idealized ocean model. The goal is to reproduce this simulation using one of these approaches:
+- A deep-learning–based emulator,
+- A hybrid scheme combining a coarse-resolution ocean model with a learned correction term
 
 ### CH-06 – Mini Climate Emulation
 
 <a id="challenge-06"></a>
 
-Tutor(s): [Nathan Mankovich](#nathan-mankovich)
+Tutor(s): [Nathan Mankovich](#nathan-mankovich) </br>
 Repository: [ch06-mini-climate-emulation](https://github.com/WinterSchool2026/ch06-mini-climate-emulation)
 
-Overview:
-Description coming soon.
+**Overview:**
+Full climate simulations are computationally expensive, so fast, physically consistent emulators are essential. The Mini Climate Emulation Challenge invites participants to build ML emulators for daily, coarse-resolution NORESM2-MM output. Participants will predict climate indices for extreme events using input aerosol and greenhouse gas datasets, along with historical climate simulations.
 
 ### CH-07 – Seeing the spread: Visualizing spatiotemporal uncertainty in ensemble data
 
 <a id="challenge-07"></a>
 
-Tutor(s): [Fangfei "Fei" Lan](#fangfei-fei-lan)
+Tutor(s): [Fangfei "Fei" Lan](#fangfei-fei-lan) </br>
 Repository: [ch07-spatiotemporal-uncertainty-ensembles](https://github.com/WinterSchool2026/ch07-spatiotemporal-uncertainty-ensembles)
 
-Overview:
-Description coming soon.
+**Overview:**
+Ensemble forecasting is a cornerstone of modern weather and climate prediction. Rather than producing a single deterministic forecast, ensemble models simulate many possible futures to reflect the inherent uncertainty of Earth system processes. Ensemble methods are often stronger predictors than individual model runs, and they reveal a range of plausible outcomes rather than a single best guess. This results in a high-dimensional, multivariate dataset with substantial spread and divergence across members.
+
+Visualization plays a critical role in interpreting these ensembles, yet uncertainty is notoriously difficult to communicate effectively. Poorly designed visualizations can be confusing or even misleading. Increasingly, AI and machine-learning methods are being integrated into ensemble analysis, such as clustering, dimensionality reduction, or pattern extraction, to help reveal dominant structures, regimes, or anomalies in complex forecast datasets.
+
+In this challenge, you will explore ensemble output from the Global Ensemble Forecast System (GEFS) and examine how uncertainty evolves across space, time, and variables. You will receive a subset of GEFS forecasts for a recent high-impact weather event and experiment with visualization techniques to reveal the structure and behavior of the ensemble from both spatial and temporal perspectives.
+
+Your goal is to collaboratively explore uncertainty in real-world data and apply uncertainty visualization techniques to make sense of an evolving ensemble forecast.
 
 ### CH-08 – Deep Probabilistic Forecasting of Global Temperature Fields
 
 <a id="challenge-08"></a>
 
-Tutor(s): [Aishwarya Venkataramanan](#aishwarya-venkataramanan)
+Tutor(s): [Aishwarya Venkataramanan](#aishwarya-venkataramanan) </br>
 Repository: [ch08-deep-probabilistic-temperature](https://github.com/WinterSchool2026/ch08-deep-probabilistic-temperature)
 
-Overview:
-Description coming soon.
+**Overview:**
+In this challenge, students will use ERA5 reanalysis data to develop deep learning models that forecast monthly global temperature maps. The focus is on quantifying and analyzing predictive uncertainty, including aleatoric (data-related) and epistemic (model-related) components. Students will implement CNN/ConvLSTM architectures in PyTorch, explore probabilistic outputs, and evaluate their models using metrics such as RMSE, NLL, CRPS, and calibration diagrams, providing insights into spatial, temporal, and seasonal patterns of uncertainty.
 
 ### CH-09 – Causal Inference for Extreme Events
 
 <a id="challenge-09"></a>
 
-Tutor(s): [Marta Sapena](#marta-sapena)
+Tutor(s): [Marta Sapena](#marta-sapena) </br>
 Repository: [ch09-causal-inference-extremes](https://github.com/WinterSchool2026/ch09-causal-inference-extremes)
 
-Overview:
-Description coming soon.
+**Overview:**
+Droughts are hydroclimatic anomalies driven by precipitation deficits and increased evapotranspiration, posing an escalating threat under global warming conditions. However, assessing drought risk remains challenging due to the complex interactions between biophysical conditions and human systems, as well as limitations in impact reporting. Furthermore, the impact of drought varies significantly across different sectors because different types of drought affect socio-environmental systems in different ways. Therefore, an approach based on drought impacts is essential for understanding drought risk.
+
+Although traditional machine learning (ML) has achieved remarkable success in drought prediction, these models are often based on spurious correlations rather than physical mechanisms. Predictive accuracy does not translate into causal understanding. In order to develop actionable policies for climate adaptation, we must transition from prediction based on associations to causal inference.
+
+This challenge focuses on causal inference methods to identify the causes of extreme weather events. Participants will move beyond association in order to estimate the heterogeneous causal effect of climate and environmental factors on the severity of such events.
+
+Participants are invited to explore the dataset and develop causal inference models to improve our understanding of the impact of drought on the agricultural sector.
 
 ### CH-10 – Generating 3D video of hurricanes
 
 <a id="challenge-10"></a>
 
-Tutor(s): [Emiliano Díaz Salas-Porras](#emiliano-díaz-salas-porras)
+Tutor(s): [Emiliano Díaz Salas-Porras](#emiliano-díaz-salas-porras) </br>
 Repository: [ch10-3d-hurricane-generation](https://github.com/WinterSchool2026/ch10-3d-hurricane-generation)
 
-Overview:
-Description coming soon.
+**Overview:**
+Use deep learning to obtain 3D maps of hurricanes from multispectral 2d geostationary imagery. The goal is to use 2d satellite imagery as input and vertical profiles of clouds, consisting of radar/lidar from cloudsat, as output. Since cloudsat measurements are sparse in space and time (narrow swath with approximately monthly revisit time) , estimating vertical profiles from geostationary imagery allows for 15 minute cadence 3d maps. Although infra-red channels and spatial information contained in the 2d imagery include information on the vertical dimension, as shown by success of deep learning models in this task, not all the vertical information is available. This means that for a given 2d image it is more appropriate to produce a distribution of possible 3d cloud maps. The goal is to use generative techniques, such as latent diffusion, to address this challenge.
 
 ### CH-11 – Machine Learning for the Attribution of Extreme Events
 
 <a id="challenge-11"></a>
 
-Tutor(s): [Homer Durand](#homer-durand)
+Tutor(s): [Homer Durand](#homer-durand) </br>
 Repository: [ch11-ml-attribution-extremes](https://github.com/WinterSchool2026/ch11-ml-attribution-extremes)
 
-Overview:
-Description coming soon.
+**Overview:**
+Attributing climate extremes remains challenging for many variables, including precipitation, wind, and soil moisture. We aim to explore recent advances in machine learning for Earth system modelling—such as neural networks, causal inference methods, kernel methods, and Bayesian approaches—and apply them to strengthen existing attribution frameworks. Our focus is on improving the integration and quantification of the various sources of uncertainty.
 
 ### CH-12 – Lightweight Vision-Language Mixture-of-Experts for Interpretable Multispectral Satellite Representation Learning
 
 <a id="challenge-12"></a>
 
-Tutor(s): [Mohanad Albughdadi](#mohanad-albughdadi)
+Tutor(s): [Mohanad Albughdadi](#mohanad-albughdadi) </br>
 Repository: [ch12-vlm-moe-multispectral](https://github.com/WinterSchool2026/ch12-vlm-moe-multispectral)
 
 Overview:
-Description coming soon.
+Earth Observation imagery exhibits strong heterogeneity across land-cover classes, making it inefficient for a single compact model to represent all patterns equally well. Modern Earth Observation models increasingly rely on large opaque encoders to achieve strong performance. On the other hand, Mixture-of-Experts architectures promise computational efficiency and specialization. The conditional routing of these models enables different experts to specialize in distinct spectral-spatial regimes. However, their internal behavior remains poorly understood.
+VLMs introduce a powerful new capability, which is the semantic alignment between visual features and natural language.
+ In this challenge, participants will explore a lightweight metadata-aware Mixture-of-Experts Masked Autoencoder (Geo-MoE-MAE) pretrained on multispectral Landsat imagery. Building on this foundation, the group will develop a lightweight vision-language interface using existing multilabel annotations (i.e., BigEarthNet labels). 
+The core idea is to convert these labels into text prompts and align image representations with a frozen lightweight language encoder. This will enable text-to-image retrieval, and produce spatially localized experts with semantically meaningful specialization, while remaining computationally efficient.
+Practical steps:
+  - Participants will combine:
+      - A pretrained lightweight MoE-MAE vision encoder (patch-based, sparse experts),
+      - A small text encoder,
+      - The resulting model will be trained with contrastive VLM alignment (CLIP-style).
+        
+  - The resulting model to be analyzed through:
+      - Routing: top-1 expert assignment for each patch.
+      - Contribution: how strongly each expert influences each patch.
+      - Ablation: how much the final representation changes when a specific expert is removed.
+      - Expert naming: because image and text live in the same feature space, experts can be named by comparing expert-conditioned image embeddings to a small query bank of basic land cover classes.
+
+The goal is to demonstrate how conditional routing and weak language supervision together provide an interpretable, resource-efficient representation model for optical remote sensing.
 
 ### CH-13 – Identifiability in hybrid AI models for understanding flood extremes
 
 <a id="challenge-13"></a>
 
-Tutor(s): [Shijie Jiang](#shijie-jiang)
+Tutor(s): [Shijie Jiang](#shijie-jiang) </br>
 Repository: [ch13-hybrid-ai-flood-extremes](https://github.com/WinterSchool2026/ch13-hybrid-ai-flood-extremes)
 
-Overview:
-Description coming soon.
+**Overview:**
+The challenge examines identifiability issues in hybrid models that link extreme rainfall to flood response across catchments. This problem is central yet often overlooked, and it sets a practical limit on how reliable and interpretable hybrid models can be. Using a concrete flood case study, participants will investigate when parameterizations become weakly identified, how this affects stability and scientific value, and, most importantly, which constraints or model structures can address these identifiability issues in practice.
 
 ### CH-14 – Multi-modal learning for Impact-based forecasting of Droughts in Eastern Africa
 
 <a id="challenge-14"></a>
 
-Tutor(s): [Vitus Benson](#vitus-benson)
+Tutor(s): [Vitus Benson](#vitus-benson) </br>
 Repository: [ch14-multimodal-drought-forecasting](https://github.com/WinterSchool2026/ch14-multimodal-drought-forecasting)
 
-Overview:
-Description coming soon.
+**Overview:**
+In this challenge, we are exploring deep learning algorithms for forecasting the impact of climate extremes on vegetation at high resolution. For this, we leverage an existing dataset of co-aligned Sentinel-2 satellite images and meteorological reanalysis: the DeepExtremeCubes. We will work with PyTorch and xarray and decide jointly what goals we want to achieve during the week 🙂
 
 ### CH-15 – Generative models for Interferometric Synthetic Aperture Radar
 
 <a id="challenge-15"></a>
 
-Tutor(s): [Nikolaos-Ioannis Bountos](#nikolaos-ioannis-bountos)
+Tutor(s): [Nikolaos-Ioannis Bountos](#nikolaos-ioannis-bountos) </br>
 Repository: [ch15-generative-insar](https://github.com/WinterSchool2026/ch15-generative-insar)
 
-Overview:
-Description coming soon.
+**Overview:**
+Interferometric Synthetic Aperture Radar (InSAR) is a powerful remote sensing modality that can provide highly accurate information on ground displacement by examining the phase differences between Synthetic Aperture Radar acquisitions captured at different times on the same location. InSAR has become indispensable for monitoring earthquakes, volcanic activity, landslides, subsidence, and infrastructure stability. However, the limited frequency of such geophysical events results in scarce labeled datasets, hindering the application of deep learning methods in this high-impact domain. This challenge aims to address this problem through synthetic InSAR generation. The objectives of this challenge can be summarized as follows: a) Model Development: Design methods that can generate synthetic samples conditioned on predefined concepts or textual description of InSAR data; b) Evaluation Protocol: Construct an evaluation protocol that assesses the quality of the generated InSAR, taking into consideration both the generated image quality as well as the underlying physics; c) Practical utility assessment: Test whether synthetically generated InSAR can be used effectively as a training dataset for supervised learning.
 
 ### CH-16 – Vision-Language Models for EO: Connect imagery and text to enhance EO data interpretation
 
 <a id="challenge-16"></a>
 
-Tutor(s): [Angelos Zavras](#angelos-zavras)
+Tutor(s): [Angelos Zavras](#angelos-zavras) </br>
 Repository: [ch16-vlm-earth-observation](https://github.com/WinterSchool2026/ch16-vlm-earth-observation)
 
-Overview:
-Description coming soon.
+**Overview:**
+The Earth’s orbit is teeming with a growing constellation of Earth Observation (EO) satellites, continuously producing an unprecedented volume of diverse and complex information about our planet. In this data-rich landscape, language provides a natural interface to interact with and analyze these vast RS archives. The “Vision-Language Models for EO” Challenge invites participants to use pre-trained VLMs to interact with EO data through natural language. Possible directions include image captioning, visual question answering, EO data retrieval, or text-based image search.
 
 ### CH-17 – Change retrieval in EO data using Vision Language Models (VLMs)
 
 <a id="challenge-17"></a>
 
-Tutor(s): [Valsamis (Makis) Ntouskos](#valsamis-makis-ntouskos)
+Tutor(s): [Valsamis (Makis) Ntouskos](#valsamis-makis-ntouskos) </br>
 Repository: [ch17-vlm-change-retrieval](https://github.com/WinterSchool2026/ch17-vlm-change-retrieval)
 
-Overview:
-Description coming soon.
+**Overview:**
+Tasks:
+- Generate and curate change captions using VLMs
+- Evaluate change retrieval on EO data via text-to-image retrieval
+- Localization of changes in EO data
 
 ### CH-18 – The Multi-Modal ARD Factory: Mastering the Data-Centric Pipeline for EO Foundation Models
 
 <a id="challenge-18"></a>
 
-Tutor(s): [Vasileios Tsironis](#vasileios-tsironis)
+Tutor(s): [Vasileios Tsironis](#vasileios-tsironis) </br>
 Repository: [ch18-multimodal-ard-factory](https://github.com/WinterSchool2026/ch18-multimodal-ard-factory)
 
-Overview:
-Description coming soon.
+**Overview:**
+This challenge tackles the "Data-Centric AI" bottleneck in Earth Observation: transforming heterogeneous satellite streams into Foundation-Model-ready data cubes. Participants will design an end-to-end pipeline to harmonize Sentinel-1 (SAR) and Sentinel-2/Landsat-9 (Optical) data. The work involves navigating physical corrections (RTC, atmospheric/spectral alignment) and solving dense co-registration puzzles using advanced methods like optical flow (e.g., GeFolki). Finally, groups will "prove" the quality of their ARD by analysing its impact on the embedding space of an EO Foundation Model, investigating how data-engineering choices directly influence AI reasoning for climate and hazard applications.
 
 ## Meet the tutors
 
