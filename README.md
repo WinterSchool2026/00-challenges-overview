@@ -293,10 +293,10 @@ Tutor(s): [Alexander Winkler](#alexander-winkler) </br>
 Repository: [ch20-vegetation-buffer-meteo-extremes](https://github.com/WinterSchool2026/ch20-vegetation-buffer-meteo-extremes)
 
 **Overview:**
-Explore high-resolution climate
-model simulations of historical climate extreme analogs under different ecosystem and land
-states. Reveal the importance of plants and ecosystems in modulating the climate
-extremes!
+Under climate change, the land will face ever‑more intense extremes—droughts, heatwaves, and beyond. Meanwhile, ecosystems and their functioning are shifting, which poses the a key ongoing research question: **Can plants and ecosystems dampen or amplify these extremes?**
+Our challenge dives into past and future climate‑model simulations with evolving ecosystem states. Using machine‑learning techniques, we’ll extract insights from the model dynamics to uncover how vegetation and ecosystems influence climate extremes.
+
+Goal: **Reveal the pivotal role of plants and ecosystems in modulating extreme climate!**
 
 ## Meet the tutors
 
@@ -725,14 +725,14 @@ Dr. Xu Shan is a researcher at the MPI-BGC who completed a PhD in microwave remo
 <table>
 <tr>
 <td width="180" valign="center">
-<img src="assets/alexander_winkler.jpg" width="160">
+<img src="assets/alexander_winkler_v2.jpg" width="160">
 </td>
 <td valign="center">
 
 ### Alexander Winkler
 **Challenge 20 - Can vegetation buffer meteorological extremes events?**
 
-Alex is an Earth system scientist at the Max Planck Institute for Biogeochemistry and a core member of the ELLIS Unit Jena. His research focuses on the interactions between the atmosphere and biosphere, particularly their role in climate feedbacks. After earning his PhD in Earth system modeling at the Max-Planck-Institute for Meteorology and the University of Hamburg in 2019, he worked within the CLICCS Cluster of Excellence. Since 2020, he has been part of the ERC Synergy Grant “USMILE” at the Max Planck Institute for Biogeochemistry, where he leads the “Atmosphere-Biosphere Coupling, Climate, and Causality” Research Group.
+Alexander Winkler is an Earth system scientist at the Max Planck Institute for Biogeochemistry and a core member of the ELLIS Unit Jena. His research focuses on the interactions between the atmosphere and biosphere, particularly their role in climate feedbacks. After earning his PhD in Earth system modeling, he work in the ERC Synergy Grant “USMILE” at the Max Planck Institute for Biogeochemistry, where he leads the “Atmosphere-Biosphere Coupling, Climate, and Causality” Research Group. In early 2026, he kick-started his ERC Starting Grant "PostPeak" on machine-learning enhanced Earth system modeling going beyond peak atmospheric CO2.
 
 Alex uses models—from simple frameworks to advanced Earth system models—and machine learning to explore CO2, water, and energy exchanges between land and atmosphere. His work emphasizes causal inference and hybrid models, combining data-driven and mechanistic approaches to advance process understanding.
 
