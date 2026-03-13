@@ -68,10 +68,10 @@ In this challenge, participants will be tasked with adapting currently available
 machine learning models to assess global and regional trends of ocean deoxygenation, as
 well as identify their potential drivers and effects on the ecosystem. In situ measurements of
 O2 will be provided from the BGC-Argo and GLODAPv2 datasets, together with the
-backbone of the code to use as starting point. Key questions to explore include:
+backbone of the code to use as a starting point. Key questions to explore include:
 
-- How would increasing or decreasing the number of observations as well as changing
-sampling locations affect the mapped output and, therefore, the estimated deoxygenation
+- How would increasing or decreasing the number of observations, as well as changing
+sampling locations, affect the mapped output and, therefore, the estimated deoxygenation
 trends?
 - How does increasing the spatiotemporal resolution of the gridded product affect
 estimates of deoxygenation trends on a regional scale?
@@ -226,7 +226,7 @@ Repository: [ch14-multimodal-drought-forecasting](https://github.com/WinterSchoo
 **Overview:**
 In this challenge, we are exploring deep learning algorithms for forecasting the impact of climate extremes on vegetation at high resolution. For this, we leverage an existing dataset of co-aligned Sentinel-2 satellite images and meteorological reanalysis: the DeepExtremeCubes. We will work with PyTorch and xarray and decide jointly what goals we want to achieve during the week 🙂
 
-### CH-15 – Generative models for Interferometric Synthetic Aperture Radar
+### CH-15 – Generative Models for Interferometric Synthetic Aperture Radar
 
 <a id="challenge-15"></a>
 
