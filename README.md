@@ -254,14 +254,7 @@ Tutor(s): [Reda ElGhawi](#reda-elghawi) & [Sujan Koirala](#sujan-koirala) </br>
 Repository: [ch17-hybrid-land-atmosphere-fluxes](https://github.com/WinterSchool2026/ch17-hybrid-land-atmosphere-fluxes)
 
 **Overview:**
-This challenge introduces participants to hybrid modelling approaches for improving land–
-atmosphere fluxes in ICON-ESM. Students will explore stomatal conductance, transpiration,
-and GPP at selected FLUXNET sites using a combination of ICON-JSBACH4 (Fortran)
-simulations and feed-forward neural network (FNN) hybrid model implemented in Python.
-Across three sessions, participants will (1) run and analyse baseline ICON simulations for localized FLUXNET sites, (2) train and evaluate a hybrid model, and (3) implement the pretrained hybrid model in ICON. The challenge is open-ended: groups evaluate whether the
-hybrid approach improves model performance, under which conditions it succeeds or fails,
-and how such ML–physics combinations could influence land-surface modelling especially
-under changing environmental conditions.
+In this exercise, we will explore hybrid machine learning–process model approaches within the SINDBAD modeling framework to improve the representation of ecosystem processes. Participants will learn how data-driven methods can be used to infer relationships from observational datasets and integrate them into a process-based model. The exercise will demonstrate workflows in which machine learning models are trained on environmental data and then used to inform parameterizations within SINDBAD. This includes learning relationships offline and incorporating them into the modeling workflow to evaluate their impact on model simulations. Beyond implementing the workflow, the goal is to critically assess the strengths, limitations, and computational trade-offs of hybrid ML–process model approaches. By the end of the exercise, participants will gain hands-on experience with integrating data-driven components into a process-based modeling framework.
 
 ## Meet the tutors
 
